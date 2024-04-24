@@ -9,7 +9,7 @@
 **Data Scientist @ Cognier Insights Private Limited (_May 2021 - Present_)**
 - Developed CNN LSTM Model for converting hand written text into Machine encoded (Digital) text.
 - Developed a customer churn prediction model for General Insurance company using ensemble ML modelling techniques.
-- Developed an ML model for forecasting cab booking demand with high-demand periods for cab bookings based on climatic conditions.
+- Developed an ML model for forecasting high-demand periods for cab bookings based on climatic conditions.
 
  **Software Developer @ Appsian Tech Pvt Ltd ( May 2019 - April 2021) 
 - Analyzed requirements & developed objects based on customers use cases.
