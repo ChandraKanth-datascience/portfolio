@@ -4,7 +4,7 @@
 ## Education
 - Post Graduate Diploma in AI & ML from Electronics & ICT Academy NIT Warangal jointly with Edureka -2022
 - M.Tech (Computer Science) | Malla Reddy College Of Engineering -2017
-- 
+  
 ## Work Experience
 **Data Scientist @ Cognier Insights Private Limited (_May 2021 - Present_)**
 - Gathered, Unpacked & loaded pre-processed diverse dataset with images. Employed data preprocessing techniques to clean, resize & normalize all the images in 
