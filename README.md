@@ -7,11 +7,9 @@
   
 ## Work Experience
 **Data Scientist @ Cognier Insights Private Limited (_May 2021 - Present_)**
-- Gathered, Unpacked & loaded pre-processed diverse dataset with images. Employed data preprocessing techniques to clean, resize & normalize all the images in 
-  dataset for effective model training.
+- Developed CNN LSTM Model for converting hand written text into Machine encoded (Digital) text.
 - Developed a customer churn prediction model for General Insurance company using ensemble ML modelling techniques.
-- Analysed historical data to find insights on high-demand periods for cab bookings based on climatic conditions.
-- Conducted EDA & implemented outlier detection & removal techniques.
+- Developed an ML model for forecasting cab booking demand with high-demand periods for cab bookings based on climatic conditions.
 
  **Software Developer @ Appsian Tech Pvt Ltd ( May 2019 - April 2021) 
 - Analyzed requirements & developed objects based on customers use cases.
