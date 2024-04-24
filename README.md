@@ -13,7 +13,7 @@
 - Analysed historical data to find insights on high-demand periods for cab bookings based on climatic conditions.
 - Conducted EDA & implemented outlier detection & removal techniques.
 
-** Software Developer @ Appsian Tech Pvt Ltd ( May 2019 - April 2021) 
+ **Software Developer @ Appsian Tech Pvt Ltd ( May 2019 - April 2021) 
 - Analyzed requirements & developed objects based on customers use cases.
 - Prepared Technical design documents & implemented code as per approval.
 - Debugged SAP programs & implemented logic enhancements.
