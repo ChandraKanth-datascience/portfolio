@@ -42,7 +42,8 @@ M.Tech(Computer Science) Post graduate with 4+ Years hands on experience in Data
   
 ![Customer Churn Prediction](/assets/img/bike_study.jpeg)
 
-### Forecasting cab booking demand using ensemble Machine Learning modelling techniques in the Transportation and Logistics domain 
+### Forecasting cab booking demand using ensemble Machine Learning modelling techniques in the Transportation and Logistics domain
+[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 Historical data on cab bookings, including timestamps, locations, and other relevant factors such as weather conditions, events, and holidays has been collected. Then, that data has been cleaned and preprocessed, including handling missing values, and engineering relevant features such as time of day, day of the week, and seasonality. Next, appropriate time series forecasting models such as ARIMA, SARIMA has been selected and trained on the prepared data. The performance of the trained models have been evaluated using appropriate metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), & Root Mean Squared Error (RMSE). Finally, the trained model has been deployed into a production environment and integrated with the cab booking system to provide real-time demand forecasts.
 
 ![Forecasting cab booking demand](/assets/img/bike_study.jpeg)
