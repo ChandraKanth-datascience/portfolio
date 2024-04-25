@@ -12,8 +12,8 @@ M.Tech(Computer Science) Post graduate with 4+ Years hands on experience in Data
 - SAP ABAP
 
 ## Education
-- Post Graduate Diploma in AI & ML from Electronics & ICT Academy NIT Warangal jointly with Edureka (2022)
-- M.Tech in Computer Science from Malla Reddy College Of Engineering (2017)
+- Post Graduate Diploma in AI & ML from Electronics & ICT Academy NIT Warangal jointly with Edureka | 2022
+- M.Tech in Computer Science from Malla Reddy College Of Engineering | 2017
   
 ## Work Experience
 
