@@ -1,7 +1,7 @@
 # Data Scientist
-M.Tech(Computer Science) Post graduate with 4+ Years hands on experience in Data Science & SAP ABAP technologies which involved in solving complex business problems by leveraging AI & ML. Focus areas include CRM,OCR and Healthcare Technologies.
+M.Tech(Computer Science) Post graduate with 4+ Years hands on experience in Data Science & SAP ABAP technologies which involved in solving complex business problems by leveraging AI & ML. Focus areas include CRM , OCR & Healthcare Technologies.
 
-## Technical Skills
+#### Technical Skills
 - Python (Programming Language)
 - Machine Learning
 - TensorFlow
@@ -12,8 +12,8 @@ M.Tech(Computer Science) Post graduate with 4+ Years hands on experience in Data
 - SAP ABAP
 
 ## Education
-- Post Graduate Diploma in AI & ML | Electronics & ICT Academy NIT Warangal jointly with Edureka (_August 2022_)
-- M.Tech in Computer Science       | Malla Reddy College Of Engineering,Hyderabad                (_September 2017_)
+- Post Graduate Diploma ., AI & ML        | Electronics & ICT Academy NIT Warangal jointly with Edureka (_August 2022_)
+- Master of Technology., Computer Science | Malla Reddy College Of Engineering,Hyderabad(_September 2017_)
   
 ## Work Experience
 
