@@ -34,19 +34,19 @@ M.Tech(Computer Science) Post graduate with 4+ Years hands on experience in Data
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 - Developed Hand Written character Recognition model for a medical Company, they wanted to convert handwritten doctor prescriptions & retrieve the text from it. Manually also this can be possible but it takes lot of time so they wanted to automate this task, for this we have created neural network model that took images as input, it reads the text images & Converts into digital text. To solve this we needed CNN LSTM model.
 
-![Hand Written character Recognition](/assets/img/eeg_band_discovery.jpeg)
+![Hand Written character Recognition](/assets/img/OCR.jpg)
 
 ### Customer churn prediction model for a General Insurance company using ensemble Machine Learning modelling techniques in the Customer Relationship Management (CRM) domain
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 - Used Matlab to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
   
-![Customer Churn Prediction](/assets/img/bike_study.jpeg)
+![Customer Churn Prediction](/assets/img/Customer_Churn.png)
 
 ### Forecasting cab booking demand using ensemble Machine Learning modelling techniques in the Transportation and Logistics domain
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 - Historical data on cab bookings, including timestamps, locations, and other relevant factors such as weather conditions, events, and holidays has been collected. Then, that data has been cleaned and preprocessed, including handling missing values, and engineering relevant features such as time of day, day of the week, and seasonality. Next, appropriate time series forecasting models such as ARIMA, SARIMA has been selected and trained on the prepared data. The performance of the trained models have been evaluated using appropriate metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), & Root Mean Squared Error (RMSE). Finally, the trained model has been deployed into a production environment and integrated with the cab booking system to provide real-time demand forecasts.
 
-![Forecasting cab booking demand](/assets/img/bike_study.jpeg)
+![Forecasting cab booking demand](/assets/img/Cab booking.png)
 
 
 # Talks & Lectures
