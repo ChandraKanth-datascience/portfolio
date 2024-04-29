@@ -17,11 +17,11 @@ M.Tech(Computer Science) Post graduate with 4+ Years hands on experience in Data
   NIT Warangal jointly with Edureka  
   (2022)
 
-- **[M.Tech in Computer Science](https://drive.google.com/drive/folders/1fMgRLmOeZ_N-oA2K6Yp9-iF_7dKOvdHf)**  
+- **[M.Tech in Computer Science]()**  
   Malla Reddy College of Engineering  
   (2017)
 
-
+https://drive.google.com/file/d/1jxnFzJam6KOIqbDp2Qyy5I9IlAaVjb1r/view?usp=sharing
   
 ## Work Experience
 
