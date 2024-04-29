@@ -14,6 +14,10 @@ M.Tech(Computer Science) Post graduate with 4+ Years hands on experience in Data
 ## Education
 - PG Diploma in AI & ML | NIT Warangal jointly with Edureka (_2022_)
 - M.Tech (CS)           | Malla Reddy College of Engineering(_2017_)
+
+## Education
+- PG Diploma in AI & ML | NIT Warangal jointly with Edureka (2022)
+- M.Tech (CS) | Malla Reddy College of Engineering (2017)  
   
 ## Work Experience
 
