@@ -42,7 +42,7 @@ M.Tech(Computer Science) Post graduate with 4+ Years hands on experience in Data
 
 ![Hand Written character Recognition](/assets/img/OCR.jpg)
 
-### Customer churn prediction model for a General Insurance company using ensemble Machine Learning modelling techniques in the Customer Relationship Management (CRM) domain
+### [Customer churn prediction model for a General Insurance company using ensemble Machine Learning modelling techniques in the Customer Relationship Management (CRM) domain](https://github.com/ChandraKanth-datascience/Magma-HDI-General-Insurance)
 [Publication](https://github.com/ChandraKanth-datascience/Magma-HDI-General-Insurance)
 - Used Matlab to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
   
