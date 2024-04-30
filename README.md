@@ -53,7 +53,7 @@ M.Tech(Computer Science) Post graduate with 4+ Years hands on experience in Data
 ![Forecasting cab booking demand](/assets/img/Cab booking.png)
 
 
-# Talks & Lectures
+<!--# Talks & Lectures
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
 - Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
 - Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
@@ -74,5 +74,5 @@ M.Tech(Computer Science) Post graduate with 4+ Years hands on experience in Data
 - Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
 - Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
 
-# Data Science Blog
+# Data Science Blog -->
 
