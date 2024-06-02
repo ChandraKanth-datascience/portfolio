@@ -54,7 +54,9 @@ M.Tech(Computer Science) Post graduate with 5+ Years hands on experience in Data
 ![Customer Churn Prediction](/assets/img/Customer_Churn.png)
 
 ### [Forecasting cab booking demand using ensemble Machine Learning modelling techniques in the Transportation and Logistics domain](https://github.com/ChandraKanth-datascience/Lyft)
-- Developed a forecasting ML model for an app-based online cab booking service providing company, which operates both bikes and cars in the US. Being a cab booking app company, understanding cab supply and demand could increase the efficiency of their service and enhance user experience by minimizing waiting time. Therefore, they wanted to use machine learning for business growth.
+- Developed a forecasting ML model for an app-based online cab booking service providing company, which operates both bikes and cars in the US.
+- Being a cab booking app company, understanding cab supply and demand could increase the efficiency of their service and enhance user experience by minimizing waiting time.
+- Therefore, they wanted to use machine learning for business growth.
 - Initially, we thought the data might be seasonal, so we used appropriate time series forecasting models such as ARIMA (Autoregressive Integrated Moving Average) and SARIMA (Seasonal Autoregressive Integrated Moving Average). However, we found the data is not seasonal.
 - Consequently, we started working with traditional regression ML algorithms like Decision Tree, Random Forest, XGBoost, SVM, KNN, Gradient Boost, and AdaBoost.
 - The Random Forest Regressor performed exceptionally well on the given data. Therefore, we tuned the Random Forest Regressor model using GridSearchCV and K-Fold Cross-Validation, increasing accuracy by 2%.
