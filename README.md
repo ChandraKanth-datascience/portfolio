@@ -43,7 +43,7 @@ M.Tech(Computer Science) Post graduate with 5+ Years hands on experience in Data
 - While this can be done manually, it requires a significant amount of effort and time, so the client wanted to automate the process.Therefore, we created a neural network model that takes images as input, reads the text from the images, and converts it into digital text.
 - To solve this problem statement, we used a CNN-LSTM model.
 - Developed model layers, configured activation functions, and implemented normalization and dropout layers to prevent overfitting.
-- Implemented Recurrent Neural Network (RNN) LSTM layers, to process sequential data.
+- Implemented Recurrent Neural Network (RNN) LSTM layers to process sequential data.
 - Executed model training over multiple epochs, continually monitoring loss curves and validation metrics.
 - Conducted rigorous validation of the trained model using separate validation and test datasets.
 - Collaborated with front-end developers to integrate the character recognition model into the user interface
