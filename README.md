@@ -48,12 +48,13 @@ M.Tech(Computer Science) Post graduate with 4+ Years hands on experience in Data
 ![Customer Churn Prediction](/assets/img/Customer_Churn.png)
 
 ### [Forecasting cab booking demand using ensemble Machine Learning modelling techniques in the Transportation and Logistics domain](https://github.com/ChandraKanth-datascience/Lyft)
-- Historical data on cab bookings, including timestamps, locations, and other relevant factors such as weather conditions, events, and holidays has been collected. Then, that data has been cleaned and preprocessed, including handling missing values, and engineering relevant features such as time of day, day of the week, and seasonality. Next, appropriate time series forecasting models such as ARIMA, SARIMA has been selected and trained on the prepared data.
+- Historical data on cab bookings, including timestamps, locations, and other relevant factors such as weather conditions, events, and holidays has been collected. Then, that data has been cleaned and preprocessed, including handling missing values, and engineering relevant features such as time of day, day of the week, and seasonality.
+- Next, appropriate time series forecasting models such as ARIMA, SARIMA has been selected and trained on the prepared data.
 - Initially we thought the data might be seasonal so we have gone with Time series ML models like Arima(autoregressive integrated moving average), SARIMA(Seasonal Auto-Regressive Integrated Moving Average) but we found the data is not seasonal.
-6.So we have started working with traditional base multiple regression ML algorithms like Decision Tree, Random Forest, XG Boost, SVM, KNN, Gradient Boost, and AdaBoost.
-7.Random forest Regressor really performed well for the given data.So, Tuned the Random Forest Regressor model using GridSearchCV & K-Fold Cross-Validation to increase accuracy by 2%.
-8.The performance of the trained models have been evaluated using appropriate metrics such as Root Mean Squared Error, R^2, and Mean_Squared_Error,Mean_Squared_Log_Error.
-Finally, the trained model has been deployed into a production environment and integrated with the cab booking system to provide real-time demand forecasts.
+- So we have started working with traditional base multiple regression ML algorithms like Decision Tree, Random Forest, XG Boost, SVM, KNN, Gradient Boost, and AdaBoost.
+- Random forest Regressor really performed well for the given data.So, Tuned the Random Forest Regressor model using GridSearchCV & K-Fold Cross-Validation to increase accuracy by 2%.
+- The performance of the trained models have been evaluated using appropriate metrics such as Root Mean Squared Error, R^2, and Mean_Squared_Error,Mean_Squared_Log_Error.
+- Finally, the trained model has been deployed into a production environment and integrated with the cab booking system to provide real-time demand forecasts.
 
 
 ![Forecasting cab booking demand](/assets/img/Cab booking.png)
