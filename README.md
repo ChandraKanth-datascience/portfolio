@@ -38,47 +38,28 @@ M.Tech(Computer Science) Post graduate with 5+ Years hands on experience in Data
 
 ### CNN LSTM Model for Converting hand-written text into machine-encoded (Digital) text in the Optical Character Recognition (OCR) domain
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
-- Developed Hand Written character Recognition model for a medical Company, Business wants to convert handwritten doctor prescriptions & retrieve the text from it. Manually also this can be possible but it takes lot of time so client wants to automate this task, Hence, we have created neural network model that took images as input, it reads the text images & Converts into digital text. To solve this we needed CNN LSTM model.
+- Developed a Handwritten Character Recognition model for a medical company. The client wanted to convert handwritten doctor prescriptions into digital text. While this can be done manually, it requires a significant amount of effort and time, so the client wanted to automate the process. Therefore, we created a neural network model that takes images as input, reads the text from the images, and converts it into digital text. To solve this problem statement, we used a CNN-LSTM model.
 
 ![Hand Written character Recognition](/assets/img/OCR.jpg)
 
 ### [Customer churn prediction model for a General Insurance company using ensemble Machine Learning modelling techniques in the Customer Relationship Management (CRM) domain](https://github.com/ChandraKanth-datascience/Magma-HDI-General-Insurance)
-- A General Insurance Company, they want to findout the customers who are likely to churn and with this action what would be the impact on the entire business and to take the proactive retention measures to save the business by targeting the likely churn customers.
-
-5)Model Building - Artificial Neural Network (ANN):
-Built an ANN using Keras with input, hidden, and output layers.
-Compiled the ANN with 'adam' optimizer and 'binary_crossentropy' loss function.
-Trained the ANN for a specified number of epochs and batch size.
-Made predictions on the test set and evaluated results using confusion matrix and accuracy score.
-
-6)Model Evaluation:
-Evaluated models using metrics like accuracy, precision, recall, and F1-score.
-Plotted ROC curves for training and testing datasets to visualize performance.
-
-7)Hyperparameter Tuning:
-Performed hyperparameter tuning to optimize the model.
-Tested different thresholds to adjust model sensitivity and specificity.
-Re-evaluated model performance using accuracy and confusion matrix after adjusting thresholds.
-
-8)Comparative Analysis with Other Models:
-Trained and evaluated other models including Logistic Regression, Decision Tree, K-Neighbors Classifier, and Gaussian Naive Bayes.
-Compared the performance of each model based on accuracy and ROC AUC scores to identify the best performing model.
-
-9)Performed Data Visualization:
-Visualized model performance metrics using plots and tables.
-Generated confusion matrices, ROC curves, and classification reports to summarize findings.
+- Developed a Customer Churn Prediction model for a general insurance company.
+- The client wanted to identify customers who are likely to churn and understand the impact on the business, allowing them to take proactive retention measures to save the business by targeting these likely churn customers.
+- For this problem, we chose and built machine learning models using suitable classification algorithms such as logistic regression, decision tree, random forest, and gradient boosting machines.These algorithms were trained on the prepared data.
+- Once the models were trained, their performance was assessed using evaluation metrics like accuracy, precision, recall, F1-score, and ROC-AUC.
+- Additionally, we built an ANN model to achieve better accuracy scores.
+- Finally, the churn prediction model was deployed into the production environment and integrated with the customer management system.
+- This helped in identifying at-risk customers and enabled the business to take proactive retention measures.
   
 ![Customer Churn Prediction](/assets/img/Customer_Churn.png)
 
 ### [Forecasting cab booking demand using ensemble Machine Learning modelling techniques in the Transportation and Logistics domain](https://github.com/ChandraKanth-datascience/Lyft)
-- Historical data on cab bookings, including timestamps, locations, and other relevant factors such as weather conditions, events, and holidays has been collected.
-- The collected raw data has been cleaned and preprocessed, including handling missing values, and engineering relevant features such as time of day, day of the week, and seasonality.
-- Initially we thought the data might be seasonal so we have gone with appropriate time series forecasting models such as Arima(autoregressive integrated moving average), SARIMA(Seasonal Auto-Regressive Integrated Moving Average)  has been selected and trained on the prepared data but we found the data is not seasonal.
-- So we have started working with traditional base multiple regression ML algorithms like Decision Tree, Random Forest, XG Boost, SVM, KNN, Gradient Boost, and AdaBoost.
-- Random forest Regressor really performed well for the given data.So, Tuned the Random Forest Regressor model using GridSearchCV & K-Fold Cross-Validation to increase accuracy by 2%.
-- The performance of the trained models have been evaluated using appropriate metrics such as Root Mean Squared Error, R^2, and Mean_Squared_Error,Mean_Squared_Log_Error.
-- Finally, the trained model has been deployed into a production environment and integrated with the cab booking system to provide real-time demand forecasts.
-
+- Developed a forecasting ML model for an app-based online cab booking service providing company, which operates both bikes and cars in the US. Being a cab booking app company, understanding cab supply and demand could increase the efficiency of their service and enhance user experience by minimizing waiting time. Therefore, they wanted to use machine learning for business growth.
+- Initially, we thought the data might be seasonal, so we used appropriate time series forecasting models such as ARIMA (Autoregressive Integrated Moving Average) and SARIMA (Seasonal Autoregressive Integrated Moving Average). However, we found the data is not seasonal.
+- Consequently, we started working with traditional regression ML algorithms like Decision Tree, Random Forest, XGBoost, SVM, KNN, Gradient Boost, and AdaBoost.
+- The Random Forest Regressor performed exceptionally well on the given data. Therefore, we tuned the Random Forest Regressor model using GridSearchCV and K-Fold Cross-Validation, increasing accuracy by 2%.
+- The performance of the trained models was evaluated using appropriate metrics such as Root Mean Squared Error (RMSE), R², Mean Squared Error (MSE), and Mean Squared Logarithmic Error (MSLE).
+- Finally, the trained model was deployed into a production environment and integrated with the cab booking system to provide real-time demand forecasts.
 
 ![Forecasting cab booking demand](/assets/img/Cab booking.png)
 
