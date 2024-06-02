@@ -51,7 +51,7 @@ M.Tech(Computer Science) Post graduate with 5+ Years hands on experience in Data
 ![Hand Written character Recognition](/assets/img/OCR.jpg)
 
 ### [Customer churn prediction model for a General Insurance company using ensemble Machine Learning modelling techniques in the Customer Relationship Management (CRM) domain](https://github.com/ChandraKanth-datascience/Magma-HDI-General-Insurance)
-- Developed a Customer Churn Prediction model for a general insurance company.
+- Developed and implemented a machine learning model to predict customer churn for General Insurance Company, leveraging advanced data mining techniques.
 - The client wanted to identify customers who are likely to churn and understand the impact on the business, allowing them to take proactive retention measures to save the business by targeting these likely churn customers.
 - For this problem, we chose and built machine learning models using suitable classification algorithms such as logistic regression, decision tree, random forest, and gradient boosting machines.These algorithms were trained on the prepared data.
 - Once the models were trained, their performance was assessed using evaluation metrics like accuracy, precision, recall, F1-score, and ROC-AUC.
