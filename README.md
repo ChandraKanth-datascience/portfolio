@@ -1,5 +1,5 @@
 # Data Scientist
-M.Tech(Computer Science) Post graduate with 4+ Years hands on experience in Data Science & SAP ABAP technologies which involved in solving complex business problems by leveraging AI & ML. Focus areas include CRM , OCR & Healthcare Technologies.
+M.Tech(Computer Science) Post graduate with 5+ Years hands on experience in Data Science & SAP ABAP technologies which involved in solving complex business problems by leveraging AI & ML. Focus areas include CRM , OCR & Healthcare Technologies.
 
 #### Technical Skills
 - Python (Programming Language)
@@ -43,14 +43,37 @@ M.Tech(Computer Science) Post graduate with 4+ Years hands on experience in Data
 ![Hand Written character Recognition](/assets/img/OCR.jpg)
 
 ### [Customer churn prediction model for a General Insurance company using ensemble Machine Learning modelling techniques in the Customer Relationship Management (CRM) domain](https://github.com/ChandraKanth-datascience/Magma-HDI-General-Insurance)
-- Used Matlab to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+- A General Insurance Company, they want to findout the customers who are likely to churn and with this action what would be the impact on the entire business and to take the proactive retention measures to save the business by targeting the likely churn customers.
+
+5)Model Building - Artificial Neural Network (ANN):
+Built an ANN using Keras with input, hidden, and output layers.
+Compiled the ANN with 'adam' optimizer and 'binary_crossentropy' loss function.
+Trained the ANN for a specified number of epochs and batch size.
+Made predictions on the test set and evaluated results using confusion matrix and accuracy score.
+
+6)Model Evaluation:
+Evaluated models using metrics like accuracy, precision, recall, and F1-score.
+Plotted ROC curves for training and testing datasets to visualize performance.
+
+7)Hyperparameter Tuning:
+Performed hyperparameter tuning to optimize the model.
+Tested different thresholds to adjust model sensitivity and specificity.
+Re-evaluated model performance using accuracy and confusion matrix after adjusting thresholds.
+
+8)Comparative Analysis with Other Models:
+Trained and evaluated other models including Logistic Regression, Decision Tree, K-Neighbors Classifier, and Gaussian Naive Bayes.
+Compared the performance of each model based on accuracy and ROC AUC scores to identify the best performing model.
+
+9)Performed Data Visualization:
+Visualized model performance metrics using plots and tables.
+Generated confusion matrices, ROC curves, and classification reports to summarize findings.
   
 ![Customer Churn Prediction](/assets/img/Customer_Churn.png)
 
 ### [Forecasting cab booking demand using ensemble Machine Learning modelling techniques in the Transportation and Logistics domain](https://github.com/ChandraKanth-datascience/Lyft)
-- Historical data on cab bookings, including timestamps, locations, and other relevant factors such as weather conditions, events, and holidays has been collected. Then, that data has been cleaned and preprocessed, including handling missing values, and engineering relevant features such as time of day, day of the week, and seasonality.
-- Next, appropriate time series forecasting models such as ARIMA, SARIMA has been selected and trained on the prepared data.
-- Initially we thought the data might be seasonal so we have gone with Time series ML models like Arima(autoregressive integrated moving average), SARIMA(Seasonal Auto-Regressive Integrated Moving Average) but we found the data is not seasonal.
+- Historical data on cab bookings, including timestamps, locations, and other relevant factors such as weather conditions, events, and holidays has been collected.
+- The collected raw data has been cleaned and preprocessed, including handling missing values, and engineering relevant features such as time of day, day of the week, and seasonality.
+- Initially we thought the data might be seasonal so we have gone with appropriate time series forecasting models such as Arima(autoregressive integrated moving average), SARIMA(Seasonal Auto-Regressive Integrated Moving Average)  has been selected and trained on the prepared data but we found the data is not seasonal.
 - So we have started working with traditional base multiple regression ML algorithms like Decision Tree, Random Forest, XG Boost, SVM, KNN, Gradient Boost, and AdaBoost.
 - Random forest Regressor really performed well for the given data.So, Tuned the Random Forest Regressor model using GridSearchCV & K-Fold Cross-Validation to increase accuracy by 2%.
 - The performance of the trained models have been evaluated using appropriate metrics such as Root Mean Squared Error, R^2, and Mean_Squared_Error,Mean_Squared_Log_Error.
