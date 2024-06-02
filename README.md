@@ -38,7 +38,15 @@ M.Tech(Computer Science) Post graduate with 5+ Years hands on experience in Data
 
 ### CNN LSTM Model for Converting hand-written text into machine-encoded (Digital) text in the Optical Character Recognition (OCR) domain
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
-- Developed a Handwritten Character Recognition model for a medical company. The client wanted to convert handwritten doctor prescriptions into digital text. While this can be done manually, it requires a significant amount of effort and time, so the client wanted to automate the process. Therefore, we created a neural network model that takes images as input, reads the text from the images, and converts it into digital text. To solve this problem statement, we used a CNN-LSTM model.
+- Developed a Handwritten Character Recognition model for a medical company.
+- The client wanted to convert handwritten doctor prescriptions into digital text.
+- While this can be done manually, it requires a significant amount of effort and time, so the client wanted to automate the process.Therefore, we created a neural network model that takes images as input, reads the text from the images, and converts it into digital text.
+- To solve this problem statement, we used a CNN-LSTM model.
+- Developed model layers, configured activation functions, and implemented normalization and dropout layers to prevent overfitting.
+- Implemented Recurrent Neural Network (RNN) LSTM layers, to process sequential data.
+- Executed model training over multiple epochs, continually monitoring loss curves and validation metrics.
+- Conducted rigorous validation of the trained model using separate validation and test datasets.
+- Collaborated with front-end developers to integrate the character recognition model into the user interface
 
 ![Hand Written character Recognition](/assets/img/OCR.jpg)
 
